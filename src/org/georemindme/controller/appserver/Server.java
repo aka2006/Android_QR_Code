@@ -26,8 +26,9 @@ public class Server implements Serializable {
 	private static final String LOG = "GeoRemindMe";
 	
 	// URL de peticion
-	private static final String URL = "http://www.rauljimenez.info/dev/tallerAndroid/api.php?id=";
-	
+	//private static final String URL = "http://www.rauljimenez.info/dev/tallerAndroid/api.php?id=";
+	private static final String URL = "http://www.mtkfan.com/";
+    
 	// Instancia del servidor
 	private static Server instance;
 
